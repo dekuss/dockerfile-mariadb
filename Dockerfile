@@ -9,4 +9,4 @@ RUN create database dockerdb;
 RUN use database dockerdb:
 ADD Desktop/liceo.ddl    Desktop/DockerFIles/
 
-
+    asdasdasd
